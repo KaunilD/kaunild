@@ -6,4 +6,4 @@
 
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaunild&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaunild&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
